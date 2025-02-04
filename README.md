@@ -18,8 +18,9 @@ Add screenshots showing the app on web and mobile (iOS/Android) devices.
 • Mobile Screenshot:
 
 
-![Uploading project-mobile.png…]()
+ 
 
+![project-mobile](https://github.com/user-attachments/assets/316b48fc-da24-4cee-a8cc-22bd9da752b3)
 
 
 
