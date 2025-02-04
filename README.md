@@ -5,6 +5,26 @@ A responsive digital art gallery web application built with React.js and Tailwin
 1. Deployment Link:
 [https://digitalartgallery.hackingtruth.org/](https://digitalartgallery.hackingtruth.org/)
 
+
+2. Screenshots:
+Add screenshots showing the app on web and mobile (iOS/Android) devices.
+
+• Web Screenshot:
+
+![project-web](https://github.com/user-attachments/assets/fbb7e74e-7085-4ea1-a412-260f64872daf)
+
+
+
+• Mobile Screenshot:
+
+
+![Uploading project-mobile.png…]()
+
+
+
+
+
+
 🚀 Features
 
 Responsive Design: Optimized for mobile and desktop views.
