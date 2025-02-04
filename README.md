@@ -2,6 +2,10 @@ Digital Art Gallery
 
 A responsive digital art gallery web application built with React.js and Tailwind CSS, featuring a sidebar navigation, dynamic art grid, and user interaction components. The project is designed to showcase diverse artworks in a modern, user-friendly interface.
 
+1. Deployment Link:
+[Provide live URLs for web.
+](https://digitalartgallery.hackingtruth.org/)
+
 🚀 Features
 
 Responsive Design: Optimized for mobile and desktop views.
