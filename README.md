@@ -17,7 +17,7 @@ User Interaction: Includes icons for user profile, notifications, and expert cha
 📦 Installation
 
 Clone the Repository
-git clone https://github.com/your-username/digital-art-gallery.git
+git clone https://github.com/whoiskumaratul/digital-art-gallery.git
 cd digital-art-gallery
 
 Install Dependencies:
